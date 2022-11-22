@@ -14,7 +14,9 @@
     top: 200px;
     left: 200px;
 }
-
+#counter{
+    font-size: 25px;
+}
 #buttons {
     text-align: center;
     margin-top: 25px;
